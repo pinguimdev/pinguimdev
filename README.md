@@ -3,9 +3,8 @@ My name is werberson, I have been a programmer for several years focused and pas
 
 #### software and technologies
 
-![](https://img.shields.io/badge/SO-linux-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-vim-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-intellij-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SO-linux|mac-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editors-vim|intellij-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-rust-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
